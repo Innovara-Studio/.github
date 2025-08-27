@@ -27,7 +27,7 @@
 ---
 
 ## 聯絡我們
-- **Email**: [hello@innovarastudio.com](mailto:hello@innovarastudio.com)  
+- **Email**:  [joycechen108@gmail.com](mailto:joycechen108@gmail.com) 
 - **GitHub**: [github.com/Innovara-Studio](https://github.com/Innovara-Studio)  
 
 ---
