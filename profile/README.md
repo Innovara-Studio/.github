@@ -27,7 +27,7 @@
 
 ## 聯絡我們
 - **Email**: [joycechen108@gmail.com](mailto:joycechen108@gmail.com)  
-- **GitHub**: [目前這個 GitHub Organization](https://github.com/Innovara-Studio)  
+- **GitHub**: [Innovara Studio](https://github.com/Innovara-Studio)  
 
 ---
 
